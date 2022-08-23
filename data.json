@@ -1,0 +1,20 @@
+{
+  "name": "Uniswap Labs Default",
+  "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
+  "timestamp": "2021-05-27T20:37:00.000+00:00",
+   "tokens": [
+   {
+    "chainId": 117,
+    "address": "0xBD173B4315D8d91819d09f5d28DeDCcd53F0F595",
+    "name": "RDTA",
+    "symbol": "RDTA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/13469/thumb/1inch-token.png?1608803028"
+   }
+  ],
+ "version": {
+   "major": 4,
+   "minor": 1,
+   "patch": 0
+  }
+}
